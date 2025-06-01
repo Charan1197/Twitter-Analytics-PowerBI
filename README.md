@@ -4,9 +4,9 @@ This repository contains my Data Analyst internship project at NULL CLASS ED TEC
 
 ## 📁 Contents
 
-- `Twitter_Analytics_Dashboard.pbix` – The Power BI dashboard file
-- `twitter_data.csv` – The dataset used in the dashboard
-- `Internship_Report.pdf` – A detailed report documenting the tasks, learnings, and outcomes
+- `Twitter Analytics.pbix` – The Power BI dashboard file
+- `Tweet.xlsx` – The dataset used in the dashboard
+- `Internship Report.pdf` – A detailed report documenting the tasks, learnings, and outcomes
 
 ## 📊 Project Summary
 
